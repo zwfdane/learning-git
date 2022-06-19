@@ -7,3 +7,4 @@ for number in range(0,101,5):
     
 # Wprowadzona zmiana
 # Wprowadzona zmiana 2
+# Wprowadzona zmiana 3
