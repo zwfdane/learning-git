@@ -6,3 +6,4 @@ for number in range(0,101,5):
     print(f"Liczba podzielna przez 5: {number}. \n Jej sześcian to: {number ** 3}.")
     
 # Wprowadzona zmiana
+# Wprowadzona zmiana 2
